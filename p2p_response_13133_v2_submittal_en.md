@@ -11,7 +11,7 @@ AIGC:
 
 
 
-# ClawHunt #1724 Point-by-Point Response (proposal 13133 / Submittal)
+# #1724 Point-by-Point Response (proposal 13133 / Submittal)
 
 > Version: submittal ｜ Date: 2026-11-15 ｜ Baseline: zero-dependency deliverable `prototype_publish_v4.1` (Release tag `v4.1`, 40,901,536 B / 211 files)
 > Writing principle: **answer only with files that actually exist in the deliverable, commands that can actually be re-run, and outputs that were actually produced** — no promises without a landing point.
